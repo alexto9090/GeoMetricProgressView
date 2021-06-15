@@ -1,0 +1,3 @@
+rootProject.name = "GeoMetricProgressView"
+include ':app'
+include ':geometricprogressview'
